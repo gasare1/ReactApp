@@ -1,0 +1,20 @@
+.card-header{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 50px;
+}
+.card-footer{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+.carousel{
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    float: left;
+    width:  150vh;
+    height: 100vh;
+    object-fit:scale-down;
+}
